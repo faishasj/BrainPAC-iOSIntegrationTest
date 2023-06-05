@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "brainpac-nih-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BrainPark/brainpac-nih-ios",
+      "state" : {
+        "branch" : "ios-simulator",
+        "revision" : "17a31f425a5314e4f0a972408bc90f7a3928ef84"
+      }
+    }
+  ],
+  "version" : 2
+}
